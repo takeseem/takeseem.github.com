@@ -1,0 +1,19 @@
+---
+layout: post
+title: 生出来了
+date: 2017-08-08 14:20:00.000000000 +08:00
+---
+
+[塔星科技]生出来了，仅此而已。
+
+
+{% highlight java %}
+public class Hello {
+	public static void main(String[] args) {
+		System.out.println("Hello 塔星科技!");
+	}
+}
+//=> Hello 塔星科技
+{% endhighlight %}
+
+[塔星科技]: http://www.takeseem.com
